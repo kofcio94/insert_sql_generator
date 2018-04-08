@@ -24,11 +24,6 @@ import java.nio.file.StandardOpenOption;
 
 public class InsertGenerator {
 
-    final static int AMOUNT = 1000;
-
-    static String insertClause = "INSERT INTO ";
-    static String insertValuesClause = " VALUES (";
-
     public static void main(String... args) throws Exception {
         File outputFile = new File("insert.sql");
         if (outputFile.exists()) {
