@@ -50,7 +50,7 @@ public class StoreGenerator {
 
     public static String getRandomCountry() {
         List<Country> countryList = GsonUtils.<Country>toList(CountriesJson.getCountries(), Country[].class);
-        int randomIndex = RandomInt.generateRandomInt(countryList.size() -1);
-        return countryList.get(randomIndex).getName();
+        int randomIndex = RandomInt.generateRandomInt(countryList.size() - 1);
+        return "'" + countryList.get(randomIndex).getName() + "'";
     }
 }

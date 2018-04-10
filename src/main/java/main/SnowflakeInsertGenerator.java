@@ -22,6 +22,8 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.StandardOpenOption;
 
+import static utils.TableDeleter.insertDeleteClause;
+
 public class SnowflakeInsertGenerator {
 
     public static void main(String... args) throws Exception {
@@ -40,6 +42,8 @@ public class SnowflakeInsertGenerator {
 
         long startTime = System.currentTimeMillis();
         int recordsGenerated = 0;
+
+        insertDeleteClause(outputFile);
 
         String countriesInsert = CountryGenerator.generateInserts();
         recordsGenerated += StringUtils.countMatches(countriesInsert, "\n");

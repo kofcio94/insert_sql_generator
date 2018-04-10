@@ -13,6 +13,8 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.StandardOpenOption;
 
+import static utils.TableDeleter.insertDeleteClause;
+
 public class StarInsertGenerator {
     public static void main(String... args) throws IOException {
         File outputFile = new File("star_insert.sql");
@@ -30,6 +32,8 @@ public class StarInsertGenerator {
 
         long startTime = System.currentTimeMillis();
         int recordsGenerated = 0;
+
+        insertDeleteClause(outputFile);
 
         String storeInsert = StoreGenerator.generateInserts();
         recordsGenerated += StringUtils.countMatches(storeInsert, "\n");
