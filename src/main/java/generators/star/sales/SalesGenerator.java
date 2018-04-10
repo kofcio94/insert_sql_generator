@@ -1,13 +1,13 @@
-package generators.snowflake.sales;
+package generators.star.sales;
 
-import generators.snowflake.employee.EmployeeGenerator;
-import generators.snowflake.product.ProductGenerator;
-import generators.snowflake.salesType.SalesTypeGenerator;
-import generators.snowflake.store.StoreGenerator;
-import generators.snowflake.time.TimeGenerator;
+import generators.star.employee.EmployeeGenerator;
+import generators.star.product.ProductGenerator;
+import generators.star.salesType.SalesTypeGenerator;
+import generators.star.store.StoreGenerator;
+import generators.star.time.TimeGenerator;
 import utils.InsertBuilder;
-import utils.TableNames;
 import utils.RandomInt;
+import utils.TableNames;
 
 public class SalesGenerator {
 
@@ -73,4 +73,5 @@ public class SalesGenerator {
         int randomFK = RandomInt.generateRandomInt(ProductGenerator.primaryKeys.length - 1);
         return ProductGenerator.primaryKeys[randomFK];
     }
+
 }

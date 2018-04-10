@@ -1,6 +1,7 @@
 package main;
 
-import generators.snowflake.salesType.SalesTypeGenerator;
+import generators.star.sales.SalesGenerator;
+import generators.star.salesType.SalesTypeGenerator;
 import generators.star.employee.EmployeeGenerator;
 import generators.star.product.ProductGenerator;
 import generators.star.store.StoreGenerator;
@@ -49,6 +50,10 @@ public class StarInsertGenerator {
         String salesTypeInsert = SalesTypeGenerator.generateInserts();
         recordsGenerated += StringUtils.countMatches(salesTypeInsert, "\n");
         Files.write(outputFile.toPath(), salesTypeInsert.getBytes(), StandardOpenOption.APPEND);
+
+        String salesInsert = SalesGenerator.generateInserts();
+        recordsGenerated += StringUtils.countMatches(salesInsert, "\n");
+        Files.write(outputFile.toPath(), salesInsert.getBytes(), StandardOpenOption.APPEND);
 
         System.out.println("records generated : " + recordsGenerated);
         long timePassed = System.currentTimeMillis() - startTime;

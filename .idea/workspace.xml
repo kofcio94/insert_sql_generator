@@ -2,69 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b274d17f-bc1e-447c-9f75-01a8d7cec36d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/snowflake_insert.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/salesType/SalesTypeGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/generators/star/employee/EmployeeGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/generators/star/product/ProductGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/generators/star/store/StoreGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/generators/star/time/TimeGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/main/BothGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/main/StarInsertGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/star_insert.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/city/CityGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/country/Country.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/country/CountryGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/month/MonthGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/salesType/SalesTypeGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/week/WeekGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/weekDay/WeekDayGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/year/YearGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/star/employee/EmployeeGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/star/product/ProductGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/star/store/StoreGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/generators/star/time/TimeGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/BothGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/SnowflakeInsertGenerator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/StarInsertGenerator.class" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/insert.sql" afterPath="$PROJECT_DIR$/insert.sql" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/city/CityGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/city/CityGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/country/CountriesJson.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/country/CountriesJson.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/country/Country.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/country/Country.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/country/CountryGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/country/CountryGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/employee/EmployeeGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/employee/EmployeeGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/month/MonthGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/month/MonthGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/product/ProductGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/product/ProductGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/productType/ProductTypeGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/productType/ProductTypeGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/region/RegionGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/region/RegionGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/sales/SalesGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/sales/SalesGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/salesType/SalesTypeGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/star/salesType/SalesTypeGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/state/StatesGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/state/StatesGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/store/StoreGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/store/StoreGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/time/TimeGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/time/TimeGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/week/WeekGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/week/WeekGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/weekDay/WeekDayGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/weekDay/WeekDayGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generators/year/YearGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/year/YearGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/InsertGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/main/SnowflakeInsertGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/city/CityGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/country/CountriesJson.class" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/country/CountriesJson.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/country/Country.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/country/CountryGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/employee/EmployeeGenerator.class" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/employee/EmployeeGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/month/MonthGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/product/ProductGenerator.class" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/product/ProductGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/productType/ProductTypeGenerator.class" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/productType/ProductTypeGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/region/RegionGenerator.class" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/region/RegionGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/sales/SalesGenerator.class" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/sales/SalesGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/salesType/SalesTypeGenerator.class" afterPath="$PROJECT_DIR$/target/classes/generators/star/salesType/SalesTypeGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/state/StatesGenerator.class" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/state/StatesGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/store/StoreGenerator.class" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/store/StoreGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/time/TimeGenerator.class" afterPath="$PROJECT_DIR$/target/classes/generators/snowflake/time/TimeGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/week/WeekGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/weekDay/WeekDayGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generators/year/YearGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/InsertGenerator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generators/snowflake/sales/SalesGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/snowflake/sales/SalesGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generators/star/store/StoreGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/generators/star/store/StoreGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/StarInsertGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/main/StarInsertGenerator.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,77 +27,7 @@
       <content type="file-editors">
         <state>
           <leaf>
-            <file leaf-file-name="EmployeeGenerator.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/employee/EmployeeGenerator.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="328">
-                    <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="SalesTypeGenerator.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/salesType/SalesTypeGenerator.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="279">
-                    <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="StoreGenerator.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/store/StoreGenerator.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="150">
-                    <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="CityGenerator.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/city/CityGenerator.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="90">
-                    <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="49" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="ProductGenerator.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/product/ProductGenerator.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="500">
-                    <caret line="50" column="64" lean-forward="false" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="ProductTypeGenerator.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/productType/ProductTypeGenerator.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="155">
-                    <caret line="20" column="18" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="18" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="TimeGenerator.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/time/TimeGenerator.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="482">
-                    <caret line="79" column="23" lean-forward="false" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="WeekDayGenerator.java" pinned="false" current-in-tab="false">
+            <file leaf-file-name="WeekDayGenerator.java" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/weekDay/WeekDayGenerator.java">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="75">
@@ -176,33 +47,11 @@
       <file leaf-file-name="SnowflakeInsertGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/main/SnowflakeInsertGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="361">
+              <caret line="101" column="92" lean-forward="false" selection-start-line="101" selection-start-column="92" selection-end-line="101" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StarInsertGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/main/StarInsertGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BothGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/main/BothGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -210,7 +59,7 @@
       <file leaf-file-name="SalesTypeGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/salesType/SalesTypeGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
+            <state relative-caret-position="503">
               <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -219,14 +68,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StoreGenerator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StoreGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/store/StoreGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="121">
+              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1620#1629#0" expanded="true" />
+                <element signature="e#1619#1628#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/time/TimeGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalesGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/sales/SalesGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="51" lean-forward="false" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -235,8 +106,8 @@
       <file leaf-file-name="TimeGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/time/TimeGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="47" column="55" lean-forward="false" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
+            <state relative-caret-position="195">
+              <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -244,45 +115,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/employee/EmployeeGenerator.java">
+      <file leaf-file-name="StoreGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/store/StoreGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/product/ProductGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountryGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/country/CountryGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+            <state relative-caret-position="150">
+              <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GsonUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utils/GsonUtils.java">
+      <file leaf-file-name="StarInsertGenerator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/main/StarInsertGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="825">
+              <caret line="55" column="92" lean-forward="true" selection-start-line="55" selection-start-column="92" selection-end-line="55" selection-end-column="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalesGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/sales/SalesGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -318,11 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/city/CityInsertGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/store/StoreInsertGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/state/StatesInsertGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sales/SalesInsertGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/country/CountryInsertGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/generators/sales/SalesTypeInsertGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/generators/week.java" />
         <option value="$PROJECT_DIR$/src/main/java/generators/WeekInsertGenerator.java" />
@@ -365,10 +219,15 @@
         <option value="$PROJECT_DIR$/src/main/java/generators/star/employee/EmployeeGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/generators/star/salesType/SalesTypeGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/main/BothGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/main/StarInsertGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/main/SnowflakeInsertGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/generators/star/product/ProductGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/generators/star/store/StoreGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generators/star/factSales/factSales.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generators/star/factSales/FactSales.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generators/star/factSales/SalesGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generators/star/sales/SalesGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generators/snowflake/sales/SalesGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/StarInsertGenerator.java" />
       </list>
     </option>
   </component>
@@ -448,7 +307,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="generators" type="462c0819:PsiDirectoryNode" />
-              <item name="star" type="462c0819:PsiDirectoryNode" />
+              <item name="snowflake" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netezzy_sql" type="b2602c69:ProjectViewProjectNode" />
@@ -457,8 +316,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="generators" type="462c0819:PsiDirectoryNode" />
-              <item name="star" type="462c0819:PsiDirectoryNode" />
-              <item name="employee" type="462c0819:PsiDirectoryNode" />
+              <item name="snowflake" type="462c0819:PsiDirectoryNode" />
+              <item name="sales" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netezzy_sql" type="b2602c69:ProjectViewProjectNode" />
@@ -467,18 +326,55 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="generators" type="462c0819:PsiDirectoryNode" />
-              <item name="star" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netezzy_sql" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netezzy_sql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="generators" type="462c0819:PsiDirectoryNode" />
-              <item name="star" type="462c0819:PsiDirectoryNode" />
+              <item name="snowflake" type="462c0819:PsiDirectoryNode" />
               <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netezzy_sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netezzy_sql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="snowflake" type="462c0819:PsiDirectoryNode" />
+              <item name="time" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netezzy_sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netezzy_sql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="star" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netezzy_sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netezzy_sql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="star" type="462c0819:PsiDirectoryNode" />
+              <item name="sales" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netezzy_sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netezzy_sql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+              <item name="star" type="462c0819:PsiDirectoryNode" />
+              <item name="time" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netezzy_sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netezzy_sql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -698,12 +594,12 @@
       <workItem from="1523175006701" duration="5184000" />
       <workItem from="1523203260479" duration="4993000" />
       <workItem from="1523217843752" duration="8800000" />
-      <workItem from="1523378472719" duration="3885000" />
+      <workItem from="1523378472719" duration="4902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24109000" />
+    <option name="totallyTimeSpent" value="25126000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -758,16 +654,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/main/SnowflakeInsertGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/country/CountriesJson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -970,16 +856,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/sales/SalesGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/utils/RandomInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1020,80 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utils/GsonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/country/CountryGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/time/TimeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="79" column="23" lean-forward="false" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/weekDay/WeekDayGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/product/ProductGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="50" column="64" lean-forward="false" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/productType/ProductTypeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/time/TimeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="47" column="55" lean-forward="false" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/store/StoreGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/city/CityGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/employee/EmployeeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
@@ -1110,46 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main/StarInsertGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main/SnowflakeInsertGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/employee/EmployeeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/salesType/SalesTypeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/salesType/SalesTypeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -1158,23 +920,155 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/productType/ProductTypeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/weekDay/WeekDayGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/country/CountryGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/GsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/employee/EmployeeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/product/ProductGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="50" column="64" lean-forward="false" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/product/ProductGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/salesType/SalesTypeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/city/CityGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/store/StoreGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/store/StoreGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="121">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1620#1629#0" expanded="true" />
+            <element signature="e#1619#1628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/time/TimeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/time/TimeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/star/sales/SalesGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="51" lean-forward="false" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generators/snowflake/sales/SalesGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/SnowflakeInsertGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="101" column="92" lean-forward="false" selection-start-line="101" selection-start-column="92" selection-end-line="101" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/StarInsertGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="92" lean-forward="true" selection-start-line="55" selection-start-column="92" selection-end-line="55" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

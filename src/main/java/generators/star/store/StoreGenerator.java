@@ -9,7 +9,7 @@ import java.util.List;
 public class StoreGenerator {
     public static int[] primaryKeys;
 
-    private final static int randomAmount = 174590;
+    private final static int randomAmount = 54590;
 
     public static String generateInserts() {
         StringBuilder builder = new StringBuilder();
